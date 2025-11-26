@@ -11,6 +11,7 @@ function fibonacci(n) {
     num1 = num2;
     num2 = nextNum;
   }
+  return num2;
 }
 
 fibonacci(7);
