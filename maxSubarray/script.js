@@ -11,3 +11,4 @@ function maxSubarray(arr) {
 console.log(maxSubarray([-2, 1, -3, 4, -1, 2, 1, -5, 4]));
 
 //Maximum Subarray (Kadane’s Algorithm) here [4, -1, 2, 1] is the maximum sum subarray
+//Given an integer array, return the largest sum of a contiguous subarray.

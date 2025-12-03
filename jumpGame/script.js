@@ -1,3 +1,5 @@
+//Given an array nums, each element represents your maximum jump length. Determine if you can reach the last index.
+
 console.log(canJump([2, 3, 1, 1, 4])); // true
 console.log(canJump([3, 2, 1, 0, 4])); // false
 
